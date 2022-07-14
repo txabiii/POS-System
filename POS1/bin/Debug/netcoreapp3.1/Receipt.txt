@@ -1,0 +1,27 @@
+
+
+             Bench Official Receipt
+
+
+Transaction no. 4
+3/4/2022 4:11:25 PM
+----------------------------------------------
+Qty	Description			Price
+----------------------------------------------
+x1	Shorts				800.00
+
+x1	Jacket				299.00
+
+	Subtotal			1099
+	Tax(5%)				54.95
+	Total				1,153.95
+----------------------------------------------
+	Payment				1,200.00
+	Change				46.05
+
+
+               🌺  Thank you  🌺
+
+
+         Returns are accepted within
+    thirty (30) days of this receipt only

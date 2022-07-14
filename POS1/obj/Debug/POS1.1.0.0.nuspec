@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>POS1</id>
+    <version>1.0.0</version>
+    <authors>POS1</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp3.1">
+        <dependency id="MySql.Data" version="8.0.27" exclude="Build,Analyzers" />
+        <dependency id="MySqlConnector" version="2.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework=".NETCoreApp3.1">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.json" target="lib\netcoreapp3.1\POS1.runtimeconfig.json" />
+    <file src="C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\bin\Debug\netcoreapp3.1\POS1.dll" target="lib\netcoreapp3.1\POS1.dll" />
+  </files>
+</package>

@@ -1,0 +1,1089 @@
+C:\Users\USER\source\repos\POS1\POS1\bin\Debug\netcoreapp3.1\POS1.exe
+C:\Users\USER\source\repos\POS1\POS1\bin\Debug\netcoreapp3.1\Form1.cs
+C:\Users\USER\source\repos\POS1\POS1\bin\Debug\netcoreapp3.1\POS1.deps.json
+C:\Users\USER\source\repos\POS1\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.json
+C:\Users\USER\source\repos\POS1\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.dev.json
+C:\Users\USER\source\repos\POS1\POS1\bin\Debug\netcoreapp3.1\POS1.dll
+C:\Users\USER\source\repos\POS1\POS1\bin\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\USER\source\repos\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.Dashboard.resources
+C:\Users\USER\source\repos\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfo.cs
+C:\Users\USER\source\repos\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.dll
+C:\Users\USER\source\repos\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\USER\source\repos\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.genruntimeconfig.cache
+C:\Users\USER\source\repos\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.Properties.Resources.resources
+C:\Users\USER\source\repos\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCash.resources
+C:\Users\USER\source\repos\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.Forms.SalesForm.resources
+C:\Users\USER\source\repos\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesItems.resources
+C:\Users\USER\source\repos\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesBills.resources
+C:\Users\USER\source\repos\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ViewClothes.resources
+C:\Users\USER\source\repos\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCategories.resources
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\bin\Debug\netcoreapp3.1\POS1.exe
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\bin\Debug\netcoreapp3.1\Form1.cs
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\bin\Debug\netcoreapp3.1\POS1.deps.json
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.json
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.dev.json
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\bin\Debug\netcoreapp3.1\POS1.dll
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\bin\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.Dashboard.resources
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.Properties.Resources.resources
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCash.resources
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCategories.resources
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesBills.resources
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.Forms.SalesForm.resources
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesItems.resources
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ViewClothes.resources
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfoInputs.cache
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfo.cs
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.dll
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.genruntimeconfig.cache
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Acer\Downloads\POS1 revived\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.SizeOption.resources
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\bin\Debug\netcoreapp3.1\POS1.exe
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\bin\Debug\netcoreapp3.1\Form1.cs
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\bin\Debug\netcoreapp3.1\POS1.deps.json
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.json
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.dev.json
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\bin\Debug\netcoreapp3.1\POS1.dll
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\bin\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.Dashboard.resources
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.SizeOption.resources
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.Properties.Resources.resources
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCash.resources
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCategories.resources
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesBills.resources
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.Forms.SalesForm.resources
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesItems.resources
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ViewClothes.resources
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfoInputs.cache
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfo.cs
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.dll
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.genruntimeconfig.cache
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS1\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.ColorOption.resources
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\bin\Debug\netcoreapp3.1\POS1.exe
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\bin\Debug\netcoreapp3.1\Form1.cs
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\bin\Debug\netcoreapp3.1\POS1.deps.json
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.json
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.dev.json
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\bin\Debug\netcoreapp3.1\POS1.dll
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\bin\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\obj\Debug\netcoreapp3.1\POS1.Dashboard.resources
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.ColorOption.resources
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.SizeOption.resources
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\obj\Debug\netcoreapp3.1\POS1.Properties.Resources.resources
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCash.resources
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCategories.resources
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesBills.resources
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\obj\Debug\netcoreapp3.1\POS1.Forms.SalesForm.resources
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesItems.resources
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ViewClothes.resources
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\obj\Debug\netcoreapp3.1\POS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfoInputs.cache
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfo.cs
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\obj\Debug\netcoreapp3.1\POS1.dll
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\obj\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\obj\Debug\netcoreapp3.1\POS1.genruntimeconfig.cache
+C:\Users\Acer\Downloads\POS1 revived backup 11-16\POS\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.CategoryButton.resources
+D:\Downloads\POS (1)a\POS\POS1\bin\Debug\netcoreapp3.1\POS1.exe
+D:\Downloads\POS (1)a\POS\POS1\bin\Debug\netcoreapp3.1\Form1.cs
+D:\Downloads\POS (1)a\POS\POS1\bin\Debug\netcoreapp3.1\POS1.deps.json
+D:\Downloads\POS (1)a\POS\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.json
+D:\Downloads\POS (1)a\POS\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.dev.json
+D:\Downloads\POS (1)a\POS\POS1\bin\Debug\netcoreapp3.1\POS1.dll
+D:\Downloads\POS (1)a\POS\POS1\bin\Debug\netcoreapp3.1\POS1.pdb
+D:\Downloads\POS (1)a\POS\POS1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Downloads\POS (1)a\POS\POS1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Downloads\POS (1)a\POS\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Downloads\POS (1)a\POS\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Downloads\POS (1)a\POS\POS1\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Downloads\POS (1)a\POS\POS1\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Downloads\POS (1)a\POS\POS1\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Downloads\POS (1)a\POS\POS1\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\Downloads\POS (1)a\POS\POS1\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Downloads\POS (1)a\POS\POS1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\POS (1)a\POS\POS1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\POS (1)a\POS\POS1\obj\Debug\netcoreapp3.1\POS1.csprojAssemblyReference.cache
+D:\Downloads\POS (1)a\POS\POS1\obj\Debug\netcoreapp3.1\POS1.Dashboard.resources
+D:\Downloads\POS (1)a\POS\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.CategoryButton.resources
+D:\Downloads\POS (1)a\POS\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.ColorOption.resources
+D:\Downloads\POS (1)a\POS\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.SizeOption.resources
+D:\Downloads\POS (1)a\POS\POS1\obj\Debug\netcoreapp3.1\POS1.Properties.Resources.resources
+D:\Downloads\POS (1)a\POS\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCash.resources
+D:\Downloads\POS (1)a\POS\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCategories.resources
+D:\Downloads\POS (1)a\POS\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesBills.resources
+D:\Downloads\POS (1)a\POS\POS1\obj\Debug\netcoreapp3.1\POS1.Forms.SalesForm.resources
+D:\Downloads\POS (1)a\POS\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesItems.resources
+D:\Downloads\POS (1)a\POS\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ViewClothes.resources
+D:\Downloads\POS (1)a\POS\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.GenerateResource.cache
+D:\Downloads\POS (1)a\POS\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfoInputs.cache
+D:\Downloads\POS (1)a\POS\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfo.cs
+D:\Downloads\POS (1)a\POS\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.CoreCompileInputs.cache
+D:\Downloads\POS (1)a\POS\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.CopyComplete
+D:\Downloads\POS (1)a\POS\POS1\obj\Debug\netcoreapp3.1\POS1.dll
+D:\Downloads\POS (1)a\POS\POS1\obj\Debug\netcoreapp3.1\POS1.pdb
+D:\Downloads\POS (1)a\POS\POS1\obj\Debug\netcoreapp3.1\POS1.genruntimeconfig.cache
+D:\Downloads\POS (1)\POS2\POS1\bin\Debug\netcoreapp3.1\POS1.exe
+D:\Downloads\POS (1)\POS2\POS1\bin\Debug\netcoreapp3.1\Form1.cs
+D:\Downloads\POS (1)\POS2\POS1\bin\Debug\netcoreapp3.1\POS1.deps.json
+D:\Downloads\POS (1)\POS2\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.json
+D:\Downloads\POS (1)\POS2\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.dev.json
+D:\Downloads\POS (1)\POS2\POS1\bin\Debug\netcoreapp3.1\POS1.dll
+D:\Downloads\POS (1)\POS2\POS1\bin\Debug\netcoreapp3.1\POS1.pdb
+D:\Downloads\POS (1)\POS2\POS1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Downloads\POS (1)\POS2\POS1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Downloads\POS (1)\POS2\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Downloads\POS (1)\POS2\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Downloads\POS (1)\POS2\POS1\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Downloads\POS (1)\POS2\POS1\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Downloads\POS (1)\POS2\POS1\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Downloads\POS (1)\POS2\POS1\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\Downloads\POS (1)\POS2\POS1\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Downloads\POS (1)\POS2\POS1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\POS (1)\POS2\POS1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\POS (1)\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.csprojAssemblyReference.cache
+D:\Downloads\POS (1)\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.Dashboard.resources
+D:\Downloads\POS (1)\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.CategoryButton.resources
+D:\Downloads\POS (1)\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.ColorOption.resources
+D:\Downloads\POS (1)\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.SizeOption.resources
+D:\Downloads\POS (1)\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.Properties.Resources.resources
+D:\Downloads\POS (1)\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCash.resources
+D:\Downloads\POS (1)\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCategories.resources
+D:\Downloads\POS (1)\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesBills.resources
+D:\Downloads\POS (1)\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.Forms.SalesForm.resources
+D:\Downloads\POS (1)\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesItems.resources
+D:\Downloads\POS (1)\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ViewClothes.resources
+D:\Downloads\POS (1)\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.GenerateResource.cache
+D:\Downloads\POS (1)\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfoInputs.cache
+D:\Downloads\POS (1)\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfo.cs
+D:\Downloads\POS (1)\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.CoreCompileInputs.cache
+D:\Downloads\POS (1)\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.CopyComplete
+D:\Downloads\POS (1)\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.dll
+D:\Downloads\POS (1)\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.pdb
+D:\Downloads\POS (1)\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.genruntimeconfig.cache
+C:\Users\Acer\Downloads\POS2\POS1\bin\Debug\netcoreapp3.1\POS1.exe
+C:\Users\Acer\Downloads\POS2\POS1\bin\Debug\netcoreapp3.1\Form1.cs
+C:\Users\Acer\Downloads\POS2\POS1\bin\Debug\netcoreapp3.1\POS1.deps.json
+C:\Users\Acer\Downloads\POS2\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.json
+C:\Users\Acer\Downloads\POS2\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.dev.json
+C:\Users\Acer\Downloads\POS2\POS1\bin\Debug\netcoreapp3.1\POS1.dll
+C:\Users\Acer\Downloads\POS2\POS1\bin\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\Acer\Downloads\POS2\POS1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Acer\Downloads\POS2\POS1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Acer\Downloads\POS2\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Acer\Downloads\POS2\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Acer\Downloads\POS2\POS1\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Acer\Downloads\POS2\POS1\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Acer\Downloads\POS2\POS1\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Acer\Downloads\POS2\POS1\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Acer\Downloads\POS2\POS1\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Acer\Downloads\POS2\POS1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\Downloads\POS2\POS1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Acer\Downloads\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.Dashboard.resources
+C:\Users\Acer\Downloads\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.CategoryButton.resources
+C:\Users\Acer\Downloads\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.ColorOption.resources
+C:\Users\Acer\Downloads\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.SizeOption.resources
+C:\Users\Acer\Downloads\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.Properties.Resources.resources
+C:\Users\Acer\Downloads\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCash.resources
+C:\Users\Acer\Downloads\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCategories.resources
+C:\Users\Acer\Downloads\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesBills.resources
+C:\Users\Acer\Downloads\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.Forms.SalesForm.resources
+C:\Users\Acer\Downloads\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesItems.resources
+C:\Users\Acer\Downloads\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ViewClothes.resources
+C:\Users\Acer\Downloads\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Downloads\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfoInputs.cache
+C:\Users\Acer\Downloads\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfo.cs
+C:\Users\Acer\Downloads\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.dll
+C:\Users\Acer\Downloads\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\Acer\Downloads\POS2\POS1\obj\Debug\netcoreapp3.1\POS1.genruntimeconfig.cache
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\bin\Debug\netcoreapp3.1\POS1.exe
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\bin\Debug\netcoreapp3.1\Form1.cs
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\bin\Debug\netcoreapp3.1\POS1.deps.json
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.json
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.dev.json
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\bin\Debug\netcoreapp3.1\POS1.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\bin\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\obj\Debug\netcoreapp3.1\POS1.Dashboard.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.CategoryButton.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.ColorOption.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.SizeOption.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\obj\Debug\netcoreapp3.1\POS1.Properties.Resources.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCash.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCategories.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesBills.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\obj\Debug\netcoreapp3.1\POS1.Forms.SalesForm.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesItems.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ViewClothes.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\obj\Debug\netcoreapp3.1\POS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfoInputs.cache
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfo.cs
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\obj\Debug\netcoreapp3.1\POS1.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\obj\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\Acer\Downloads\POS2 - backup 1122 2pm\POS1\obj\Debug\netcoreapp3.1\POS1.genruntimeconfig.cache
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\bin\Debug\netcoreapp3.1\POS1.exe
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\bin\Debug\netcoreapp3.1\Form1.cs
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\bin\Debug\netcoreapp3.1\POS1.deps.json
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.json
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.dev.json
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\bin\Debug\netcoreapp3.1\POS1.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\bin\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\obj\Debug\netcoreapp3.1\POS1.Dashboard.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.CategoryButton.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.ColorOption.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.SizeOption.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\obj\Debug\netcoreapp3.1\POS1.Properties.Resources.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCash.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCategories.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesBills.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\obj\Debug\netcoreapp3.1\POS1.Forms.SalesForm.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesItems.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ViewClothes.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\obj\Debug\netcoreapp3.1\POS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfoInputs.cache
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfo.cs
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\obj\Debug\netcoreapp3.1\POS1.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\obj\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn\POS1\obj\Debug\netcoreapp3.1\POS1.genruntimeconfig.cache
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\bin\Debug\netcoreapp3.1\POS1.exe
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\bin\Debug\netcoreapp3.1\Form1.cs
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\bin\Debug\netcoreapp3.1\POS1.deps.json
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.json
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.dev.json
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\bin\Debug\netcoreapp3.1\POS1.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\bin\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.Dashboard.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.CategoryButton.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.ColorOption.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.SizeOption.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.Properties.Resources.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCash.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCategories.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesBills.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.Forms.SalesForm.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesItems.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ViewClothes.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfoInputs.cache
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfo.cs
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - Copy - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.genruntimeconfig.cache
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\bin\Debug\netcoreapp3.1\POS1.exe
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\bin\Debug\netcoreapp3.1\Form1.cs
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\bin\Debug\netcoreapp3.1\POS1.deps.json
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.json
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.dev.json
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\bin\Debug\netcoreapp3.1\POS1.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\bin\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\obj\Debug\netcoreapp3.1\POS1.Dashboard.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.CategoryButton.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.ColorOption.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.SizeOption.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\obj\Debug\netcoreapp3.1\POS1.Properties.Resources.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCash.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCategories.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesBills.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\obj\Debug\netcoreapp3.1\POS1.Forms.SalesForm.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesItems.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ViewClothes.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\obj\Debug\netcoreapp3.1\POS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfoInputs.cache
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfo.cs
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\obj\Debug\netcoreapp3.1\POS1.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\obj\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm\POS1\obj\Debug\netcoreapp3.1\POS1.genruntimeconfig.cache
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\bin\Debug\netcoreapp3.1\POS1.exe
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\bin\Debug\netcoreapp3.1\Form1.cs
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\bin\Debug\netcoreapp3.1\POS1.deps.json
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.json
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.dev.json
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\bin\Debug\netcoreapp3.1\POS1.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\bin\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.Dashboard.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.CategoryButton.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.ColorOption.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.SizeOption.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.Properties.Resources.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCash.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCategories.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesBills.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.Forms.SalesForm.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesItems.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ViewClothes.resources
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfoInputs.cache
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfo.cs
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.dll
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\Acer\Downloads\POS2 - backup 1122 330pn - 11-22-4-08pm - Copy\POS1\obj\Debug\netcoreapp3.1\POS1.genruntimeconfig.cache
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\bin\Debug\netcoreapp3.1\POS1.exe
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\bin\Debug\netcoreapp3.1\Form1.cs
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\bin\Debug\netcoreapp3.1\POS1.deps.json
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.json
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.dev.json
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\bin\Debug\netcoreapp3.1\POS1.dll
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\bin\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\obj\Debug\netcoreapp3.1\POS1.Dashboard.resources
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.CategoryButton.resources
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.ColorOption.resources
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.SizeOption.resources
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\obj\Debug\netcoreapp3.1\POS1.Properties.Resources.resources
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCash.resources
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCategories.resources
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesBills.resources
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\obj\Debug\netcoreapp3.1\POS1.Forms.SalesForm.resources
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesItems.resources
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ViewClothes.resources
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\obj\Debug\netcoreapp3.1\POS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfoInputs.cache
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfo.cs
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\obj\Debug\netcoreapp3.1\POS1.dll
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\obj\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\obj\Debug\netcoreapp3.1\POS1.genruntimeconfig.cache
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\bin\Debug\netcoreapp3.1\POS1.exe
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\bin\Debug\netcoreapp3.1\Form1.cs
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\bin\Debug\netcoreapp3.1\POS1.deps.json
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.json
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.dev.json
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\bin\Debug\netcoreapp3.1\POS1.dll
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\bin\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.AssemblyReference.cache
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\obj\Debug\netcoreapp3.1\POS1.Dashboard.resources
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.CategoryButton.resources
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.ColorOption.resources
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.SizeOption.resources
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\obj\Debug\netcoreapp3.1\POS1.Properties.Resources.resources
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCash.resources
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCategories.resources
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesBills.resources
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\obj\Debug\netcoreapp3.1\POS1.Forms.SalesForm.resources
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesItems.resources
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ViewClothes.resources
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\obj\Debug\netcoreapp3.1\POS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfoInputs.cache
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfo.cs
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\obj\Debug\netcoreapp3.1\POS1.dll
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\obj\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-24-10-21pm\POS1\obj\Debug\netcoreapp3.1\POS1.genruntimeconfig.cache
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\bin\Debug\netcoreapp3.1\POS1.exe
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\bin\Debug\netcoreapp3.1\Form1.cs
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\bin\Debug\netcoreapp3.1\POS1.deps.json
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.json
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.dev.json
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\bin\Debug\netcoreapp3.1\POS1.dll
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\bin\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\obj\Debug\netcoreapp3.1\POS1.Dashboard.resources
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.CategoryButton.resources
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.ColorOption.resources
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.SizeOption.resources
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\obj\Debug\netcoreapp3.1\POS1.Properties.Resources.resources
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCash.resources
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCategories.resources
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesBills.resources
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\obj\Debug\netcoreapp3.1\POS1.Forms.SalesForm.resources
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesItems.resources
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ViewClothes.resources
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction.TransactionForm.resources
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\obj\Debug\netcoreapp3.1\POS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfo.cs
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\obj\Debug\netcoreapp3.1\POS1.dll
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\obj\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\obj\Debug\netcoreapp3.1\POS1.genruntimeconfig.cache
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.Filter.resources
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.HistoryContent.resources
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.HistoryLabel.resources
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.ItemMovementContent.resources
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.ItemMovementLabel.resources
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.TransactionDetails.resources
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.BackButton.resources
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.TransactionDetailsContent.resources
+C:\Users\USER\source\repos\POS - 11-25-8-31pm\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.FilterButton.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\bin\Debug\netcoreapp3.1\POS1.exe
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\bin\Debug\netcoreapp3.1\Form1.cs
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\bin\Debug\netcoreapp3.1\POS1.deps.json
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.json
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.dev.json
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\bin\Debug\netcoreapp3.1\POS1.dll
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\bin\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\obj\Debug\netcoreapp3.1\POS1.Dashboard.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.CategoryButton.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.ColorOption.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.SizeOption.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\obj\Debug\netcoreapp3.1\POS1.Properties.Resources.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCash.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCategories.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesBills.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\obj\Debug\netcoreapp3.1\POS1.Forms.SalesForm.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesItems.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ViewClothes.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.BackButton.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.Filter.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.FilterButton.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.HistoryContent.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.HistoryLabel.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.ItemMovementContent.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.ItemMovementLabel.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.TransactionDetails.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.TransactionDetailsContent.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction.TransactionForm.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.GenerateResource.cache
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\obj\Debug\netcoreapp3.1\POS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfo.cs
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\obj\Debug\netcoreapp3.1\POS1.dll
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\obj\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\Acer\Documents\POS project\POS - 11-29\POS1\obj\Debug\netcoreapp3.1\POS1.genruntimeconfig.cache
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\bin\Debug\netcoreapp3.1\POS1.exe
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\bin\Debug\netcoreapp3.1\Form1.cs
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\bin\Debug\netcoreapp3.1\POS1.deps.json
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.json
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.dev.json
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\bin\Debug\netcoreapp3.1\POS1.dll
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\bin\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\obj\Debug\netcoreapp3.1\POS1.Dashboard.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.CategoryButton.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.ColorOption.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.SizeOption.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\obj\Debug\netcoreapp3.1\POS1.Properties.Resources.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCash.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCategories.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesBills.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\obj\Debug\netcoreapp3.1\POS1.Forms.SalesForm.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesItems.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ViewClothes.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.BackButton.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.Filter.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.FilterButton.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.HistoryContent.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.HistoryLabel.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.ItemMovementContent.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.ItemMovementLabel.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.TransactionDetails.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.TransactionDetailsContent.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction.TransactionForm.resources
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.GenerateResource.cache
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\obj\Debug\netcoreapp3.1\POS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfo.cs
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\obj\Debug\netcoreapp3.1\POS1.dll
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\obj\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\Acer\Documents\POS project\POS - 11-29 - Copy (2)\POS1\obj\Debug\netcoreapp3.1\POS1.genruntimeconfig.cache
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\POS1.exe
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\Form1.cs
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\POS1.deps.json
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.json
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.dev.json
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\POS1.dll
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\POS1.pdb
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.csprojAssemblyReference.cache
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Dashboard.resources
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.CategoryButton.resources
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.ColorOption.resources
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.SizeOption.resources
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Properties.Resources.resources
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCash.resources
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCategories.resources
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesBills.resources
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Forms.SalesForm.resources
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesItems.resources
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ViewClothes.resources
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.BackButton.resources
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.Filter.resources
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.FilterButton.resources
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.HistoryContent.resources
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.HistoryLabel.resources
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.ItemMovementContent.resources
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.ItemMovementLabel.resources
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.TransactionDetails.resources
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.TransactionDetailsContent.resources
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction.TransactionForm.resources
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.GenerateResource.cache
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfoInputs.cache
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfo.cs
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.CoreCompileInputs.cache
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.CopyComplete
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.dll
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.pdb
+D:\Programming Projects\POS - 12-1\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.genruntimeconfig.cache
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\POS1.exe
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\Form1.cs
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\POS1.deps.json
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.json
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.dev.json
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\POS1.dll
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\POS1.pdb
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.csprojAssemblyReference.cache
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Dashboard.resources
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.CategoryButton.resources
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.ColorOption.resources
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.SizeOption.resources
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Properties.Resources.resources
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCash.resources
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCategories.resources
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesBills.resources
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Forms.SalesForm.resources
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesItems.resources
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ViewClothes.resources
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.BackButton.resources
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.Filter.resources
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.FilterButton.resources
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.HistoryContent.resources
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.HistoryLabel.resources
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.ItemMovementContent.resources
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.ItemMovementLabel.resources
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.TransactionDetails.resources
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.TransactionDetailsContent.resources
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction.TransactionForm.resources
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.GenerateResource.cache
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfoInputs.cache
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfo.cs
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.CoreCompileInputs.cache
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.CopyComplete
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.dll
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.pdb
+D:\Programming Projects\POS - 12-3\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.genruntimeconfig.cache
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\POS1.exe
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\Form1.cs
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\POS1.deps.json
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.json
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.dev.json
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\POS1.dll
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.AssemblyReference.cache
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Dashboard.resources
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.CategoryButton.resources
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.ColorOption.resources
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.SizeOption.resources
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Properties.Resources.resources
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCash.resources
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCategories.resources
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesBills.resources
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Forms.SalesForm.resources
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesItems.resources
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ViewClothes.resources
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.BackButton.resources
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.Filter.resources
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.FilterButton.resources
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.HistoryContent.resources
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.HistoryLabel.resources
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.ItemMovementContent.resources
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.ItemMovementLabel.resources
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.TransactionDetails.resources
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.TransactionDetailsContent.resources
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction.TransactionForm.resources
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.GenerateResource.cache
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfoInputs.cache
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfo.cs
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.dll
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\Acer\Documents\POS project\POS_-_12-4\POS - 12-4\POS - 12-1\POS1\obj\Debug\netcoreapp3.1\POS1.genruntimeconfig.cache
+C:\Users\USER\source\repos\POS - 12-4\POS1\bin\Debug\netcoreapp3.1\POS1.exe
+C:\Users\USER\source\repos\POS - 12-4\POS1\bin\Debug\netcoreapp3.1\Form1.cs
+C:\Users\USER\source\repos\POS - 12-4\POS1\bin\Debug\netcoreapp3.1\POS1.deps.json
+C:\Users\USER\source\repos\POS - 12-4\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.json
+C:\Users\USER\source\repos\POS - 12-4\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.dev.json
+C:\Users\USER\source\repos\POS - 12-4\POS1\bin\Debug\netcoreapp3.1\POS1.dll
+C:\Users\USER\source\repos\POS - 12-4\POS1\bin\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\USER\source\repos\POS - 12-4\POS1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\USER\source\repos\POS - 12-4\POS1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\USER\source\repos\POS - 12-4\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\USER\source\repos\POS - 12-4\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\USER\source\repos\POS - 12-4\POS1\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\USER\source\repos\POS - 12-4\POS1\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\USER\source\repos\POS - 12-4\POS1\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\USER\source\repos\POS - 12-4\POS1\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\USER\source\repos\POS - 12-4\POS1\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\USER\source\repos\POS - 12-4\POS1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USER\source\repos\POS - 12-4\POS1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.Dashboard.resources
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.CategoryButton.resources
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.ColorOption.resources
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.SizeOption.resources
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.Properties.Resources.resources
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCash.resources
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCategories.resources
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesBills.resources
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.Forms.SalesForm.resources
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesItems.resources
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ViewClothes.resources
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.BackButton.resources
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.Filter.resources
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.FilterButton.resources
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.HistoryContent.resources
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.HistoryLabel.resources
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.ItemMovementContent.resources
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.ItemMovementLabel.resources
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.TransactionDetails.resources
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.TransactionDetailsContent.resources
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction.TransactionForm.resources
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfo.cs
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.dll
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.genruntimeconfig.cache
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.InventoryForm.resources
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.InventoryContent.resources
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.InventoryFilter.resources
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.InventoryCreate.resources
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.InventoryCreateCategory.resources
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.InventoryCreateAddCategory.resources
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.InventoryCreatePerCategory.resources
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.InventoryUpdate.resources
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.AddStocks.resources
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.RemoveStocks.resources
+C:\Users\USER\source\repos\POS - 12-4\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.Stocks.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Exchange.ExchangeDetails2.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Exchange.ExchangeDetailsContent2.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Exchange.ExchangeDetailsContentConfirm.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Exchange.ExchangeDetailsContentSelect2.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Exchange.ExchangeForm.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Exchange.ExchangeLabel.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Exchange.ExhangeContent.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Exchange.ExhangeDetails.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Dashboard.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.InventoryContent.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.InventoryCreate.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.InventoryCreateCategory.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.InventoryCreatePerCategory.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.InventoryFilter.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.InventoryForm.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.InventoryUpdate.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.ManageStockContent.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.ManageStocks.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.Specification.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.SpecificationContent.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.CategoryButton.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.ColorOption.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.SizeOption.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Properties.Resources.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Refund_Forms.RefundContent.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Refund_Forms.RefundDetails.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Refund_Forms.RefundDetailsContent.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Refund_Forms.RefundDetailsContentRight.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Refund_Forms.RefundDetailsContentSelect.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Refund_Forms.RefundForm.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Refund_Forms.RefundLabel.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCash.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCategories.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesBills.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Forms.SalesForm.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesItems.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ViewClothes.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.BackButton.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.Filter.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.HistoryContent.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.HistoryLabel.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.ItemMovementContent.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.ItemMovementLabel.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.TransactionDetails.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.TransactionDetailsContent.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction.TransactionForm.resources
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.GenerateResource.cache
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfoInputs.cache
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfo.cs
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.AssemblyReference.cache
+C:\Users\HOME\Downloads\POS - 12-28\POS1\bin\Debug\netcoreapp3.1\POS1.exe
+C:\Users\HOME\Downloads\POS - 12-28\POS1\bin\Debug\netcoreapp3.1\Form1.cs
+C:\Users\HOME\Downloads\POS - 12-28\POS1\bin\Debug\netcoreapp3.1\POS1.deps.json
+C:\Users\HOME\Downloads\POS - 12-28\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.json
+C:\Users\HOME\Downloads\POS - 12-28\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.dev.json
+C:\Users\HOME\Downloads\POS - 12-28\POS1\bin\Debug\netcoreapp3.1\POS1.dll
+C:\Users\HOME\Downloads\POS - 12-28\POS1\bin\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\HOME\Downloads\POS - 12-28\POS1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\HOME\Downloads\POS - 12-28\POS1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\HOME\Downloads\POS - 12-28\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\HOME\Downloads\POS - 12-28\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\HOME\Downloads\POS - 12-28\POS1\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\HOME\Downloads\POS - 12-28\POS1\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\HOME\Downloads\POS - 12-28\POS1\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\HOME\Downloads\POS - 12-28\POS1\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\HOME\Downloads\POS - 12-28\POS1\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\HOME\Downloads\POS - 12-28\POS1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HOME\Downloads\POS - 12-28\POS1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.CopyComplete
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.dll
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\HOME\Downloads\POS - 12-28\POS1\obj\Debug\netcoreapp3.1\POS1.genruntimeconfig.cache
+D:\Downloads\POS - 2-24 v3\POS1\bin\Debug\netcoreapp3.1\POS1.exe
+D:\Downloads\POS - 2-24 v3\POS1\bin\Debug\netcoreapp3.1\Form1.cs
+D:\Downloads\POS - 2-24 v3\POS1\bin\Debug\netcoreapp3.1\POS1.deps.json
+D:\Downloads\POS - 2-24 v3\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.json
+D:\Downloads\POS - 2-24 v3\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.dev.json
+D:\Downloads\POS - 2-24 v3\POS1\bin\Debug\netcoreapp3.1\POS1.dll
+D:\Downloads\POS - 2-24 v3\POS1\bin\Debug\netcoreapp3.1\POS1.pdb
+D:\Downloads\POS - 2-24 v3\POS1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+D:\Downloads\POS - 2-24 v3\POS1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Downloads\POS - 2-24 v3\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+D:\Downloads\POS - 2-24 v3\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+D:\Downloads\POS - 2-24 v3\POS1\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+D:\Downloads\POS - 2-24 v3\POS1\bin\Debug\netcoreapp3.1\MySql.Data.dll
+D:\Downloads\POS - 2-24 v3\POS1\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+D:\Downloads\POS - 2-24 v3\POS1\bin\Debug\netcoreapp3.1\ZstdNet.dll
+D:\Downloads\POS - 2-24 v3\POS1\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\Downloads\POS - 2-24 v3\POS1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Downloads\POS - 2-24 v3\POS1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.csprojAssemblyReference.cache
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Exchange.ExchangeDetails2.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Exchange.ExchangeDetailsContent2.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Exchange.ExchangeDetailsContentConfirm.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Exchange.ExchangeDetailsContentSelect2.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Exchange.ExchangeForm.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Exchange.ExchangeLabel.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Exchange.ExhangeContent.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Exchange.ExhangeDetails.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Dashboard.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.InventoryContent.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.InventoryCreate.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.InventoryCreateCategory.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.InventoryCreatePerCategory.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.InventoryFilter.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.InventoryForm.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.InventoryUpdate.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.ManageStockContent.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.ManageStocks.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.Specification.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.SpecificationContent.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.CategoryButton.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.ColorOption.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.SizeOption.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Properties.Resources.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Refund_Forms.RefundContent.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Refund_Forms.RefundDetails.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Refund_Forms.RefundDetailsContent.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Refund_Forms.RefundDetailsContentRight.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Refund_Forms.RefundDetailsContentSelect.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Refund_Forms.RefundForm.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Refund_Forms.RefundLabel.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCash.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCategories.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesBills.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Forms.SalesForm.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesItems.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ViewClothes.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.BackButton.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.Filter.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.HistoryContent.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.HistoryLabel.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.ItemMovementContent.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.ItemMovementLabel.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.TransactionDetails.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.TransactionDetailsContent.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction.TransactionForm.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.GenerateResource.cache
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfoInputs.cache
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfo.cs
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.CoreCompileInputs.cache
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.CopyComplete
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.dll
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.pdb
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.genruntimeconfig.cache
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Exchange_Forms.ExchangeSalesForm.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Exchange_Forms.ExchangeSalesFormContent.resources
+D:\Downloads\POS - 2-24 v3\POS1\obj\Debug\netcoreapp3.1\POS1.Exchange_Forms.AddClothes.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\bin\Debug\netcoreapp3.1\POS1.exe
+C:\Users\HOME\Downloads\POS - 3-4\POS1\bin\Debug\netcoreapp3.1\Form1.cs
+C:\Users\HOME\Downloads\POS - 3-4\POS1\bin\Debug\netcoreapp3.1\POS1.deps.json
+C:\Users\HOME\Downloads\POS - 3-4\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.json
+C:\Users\HOME\Downloads\POS - 3-4\POS1\bin\Debug\netcoreapp3.1\POS1.runtimeconfig.dev.json
+C:\Users\HOME\Downloads\POS - 3-4\POS1\bin\Debug\netcoreapp3.1\POS1.dll
+C:\Users\HOME\Downloads\POS - 3-4\POS1\bin\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\HOME\Downloads\POS - 3-4\POS1\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\HOME\Downloads\POS - 3-4\POS1\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\HOME\Downloads\POS - 3-4\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.dll
+C:\Users\HOME\Downloads\POS - 3-4\POS1\bin\Debug\netcoreapp3.1\K4os.Compression.LZ4.Streams.dll
+C:\Users\HOME\Downloads\POS - 3-4\POS1\bin\Debug\netcoreapp3.1\K4os.Hash.xxHash.dll
+C:\Users\HOME\Downloads\POS - 3-4\POS1\bin\Debug\netcoreapp3.1\MySql.Data.dll
+C:\Users\HOME\Downloads\POS - 3-4\POS1\bin\Debug\netcoreapp3.1\Ubiety.Dns.Core.dll
+C:\Users\HOME\Downloads\POS - 3-4\POS1\bin\Debug\netcoreapp3.1\ZstdNet.dll
+C:\Users\HOME\Downloads\POS - 3-4\POS1\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\HOME\Downloads\POS - 3-4\POS1\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HOME\Downloads\POS - 3-4\POS1\bin\Debug\netcoreapp3.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.AssemblyReference.cache
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Exchange_Forms.AddClothes.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Exchange.ExchangeDetails2.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Exchange.ExchangeDetailsContent2.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Exchange.ExchangeDetailsContentConfirm.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Exchange.ExchangeDetailsContentSelect2.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Exchange.ExchangeForm.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Exchange.ExchangeLabel.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Exchange_Forms.ExchangeSalesForm.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Exchange_Forms.ExchangeSalesFormContent.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Exchange.ExhangeContent.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Exchange.ExhangeDetails.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Dashboard.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.InventoryContent.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.InventoryCreate.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.InventoryCreateCategory.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.InventoryCreatePerCategory.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.InventoryFilter.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.InventoryForm.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.InventoryUpdate.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.ManageStockContent.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.ManageStocks.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.Specification.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Inventory_Forms.SpecificationContent.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.CategoryButton.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.ColorOption.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.POS_Controls.SizeOption.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Properties.Resources.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Refund_Forms.RefundContent.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Refund_Forms.RefundDetails.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Refund_Forms.RefundDetailsContent.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Refund_Forms.RefundDetailsContentRight.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Refund_Forms.RefundDetailsContentSelect.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Refund_Forms.RefundForm.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Refund_Forms.RefundLabel.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCash.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ButtonsCategories.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesBills.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Forms.SalesForm.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.SalesItems.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Sales_Forms.ViewClothes.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.BackButton.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.Filter.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.HistoryContent.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.HistoryLabel.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.ItemMovementContent.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.ItemMovementLabel.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.TransactionDetails.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction_Forms.TransactionDetailsContent.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.Transaction.TransactionForm.resources
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.GenerateResource.cache
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfoInputs.cache
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.AssemblyInfo.cs
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.CoreCompileInputs.cache
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.csproj.CopyComplete
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.dll
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.pdb
+C:\Users\HOME\Downloads\POS - 3-4\POS1\obj\Debug\netcoreapp3.1\POS1.genruntimeconfig.cache

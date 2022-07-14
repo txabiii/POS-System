@@ -1,0 +1,17 @@
+C:\Users\Acer\Documents\c# projects\POS Demo\Form1.cs
+C:\Users\Acer\Documents\c# projects\POS Demo\POS1.exe
+C:\Users\Acer\Documents\c# projects\POS Demo\POS1.dll
+C:\Users\Acer\Documents\c# projects\POS Demo\POS1.deps.json
+C:\Users\Acer\Documents\c# projects\POS Demo\POS1.runtimeconfig.json
+C:\Users\Acer\Documents\c# projects\POS Demo\POS1.pdb
+C:\Users\Acer\Documents\c# projects\POS Demo\BouncyCastle.Crypto.dll
+C:\Users\Acer\Documents\c# projects\POS Demo\Google.Protobuf.dll
+C:\Users\Acer\Documents\c# projects\POS Demo\K4os.Compression.LZ4.dll
+C:\Users\Acer\Documents\c# projects\POS Demo\K4os.Compression.LZ4.Streams.dll
+C:\Users\Acer\Documents\c# projects\POS Demo\K4os.Hash.xxHash.dll
+C:\Users\Acer\Documents\c# projects\POS Demo\MySql.Data.dll
+C:\Users\Acer\Documents\c# projects\POS Demo\Ubiety.Dns.Core.dll
+C:\Users\Acer\Documents\c# projects\POS Demo\ZstdNet.dll
+C:\Users\Acer\Documents\c# projects\POS Demo\MySqlConnector.dll
+C:\Users\Acer\Documents\c# projects\POS Demo\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Acer\Documents\c# projects\POS Demo\System.Runtime.CompilerServices.Unsafe.dll

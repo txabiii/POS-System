@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Acer\Downloads\POS - 11-23-12-20pm\POS - 11-23-12-20pm\POS1\Properties\PublishProfiles\FolderProfile1.pubxml</_LastSelectedProfileId>
+    <ShowAllFiles>true</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Exchange Forms\AddClothes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Exchange Forms\ExchangeDetails2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Exchange Forms\ExchangeDetailsContent2.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Exchange Forms\ExchangeDetailsContentConfirm.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Exchange Forms\ExchangeDetailsContentSelect2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Exchange Forms\ExchangeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Exchange Forms\ExchangeLabel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Exchange Forms\ExhangeContent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Exchange Forms\ExhangeDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Exchange Forms\ExchangeSalesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Exchange Forms\ExchangeSalesFormContent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Inventory Forms\InventoryContent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Inventory Forms\InventoryCreate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Inventory Forms\InventoryCreateCategory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Inventory Forms\InventoryCreatePerCategory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Inventory Forms\InventoryFilter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Inventory Forms\InventoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Inventory Forms\InventoryUpdate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Inventory Forms\ManageStockContent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Inventory Forms\ManageStocks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Inventory Forms\Specification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Inventory Forms\SpecificationContent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="POS_Controls\CategoryButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="POS_Controls\ColorOption.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="POS_Controls\SizeOption.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Refund Forms\RefundContent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Refund Forms\RefundDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Refund Forms\RefundDetailsContent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Refund Forms\RefundDetailsContentRight.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Refund Forms\RefundDetailsContentSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Refund Forms\RefundForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Refund Forms\RefundLabel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Sales Forms\ButtonsCash.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Sales Forms\ButtonsCategories.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Sales Forms\SalesBills.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Sales Forms\SalesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="POS_Controls\Buttons.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Sales Forms\SalesItems.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Sales Forms\ViewClothes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Transaction Forms\BackButton.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Transaction Forms\Filter.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Transaction Forms\HistoryContent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Transaction Forms\HistoryLabel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Transaction Forms\ItemMovementContent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Transaction Forms\ItemMovementLabel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Transaction Forms\TransactionDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Transaction Forms\TransactionDetailsContent.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="Transaction Forms\TransactionForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Update="Properties\Resources.resx">
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+</Project>
