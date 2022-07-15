@@ -1,5 +1,5 @@
 # POS-System
- A POS System created in C# for a clothing company as a school project. Designed to be used for a cashier for processing and recording store transactions. 
+ A POS System created in C# for a clothing company as a school project. Designed to be used for a cashier for processing and recording store transactions. [Screenshots](https://drive.google.com/file/d/1way7iSQgaVGT0_-zMlaIzJOtLJgm6_Ko/view?usp=sharing)
  
  ## Features
 * A Cashier System for selecting items for checkout. 
